@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-s-verifikaciey.github.io
+Sitemap: https://kazino-ruletka-s-verifikaciey.github.io/sitemap.xml
